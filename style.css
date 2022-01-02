@@ -1,11 +1,8 @@
 .container{
     
 }
-.child{
-    
-    
+.child{    
 }
-
 
 .tab{
     background-color: #DEB887;
@@ -14,8 +11,6 @@
     width: 30%;
     margin: 0 auto;
     padding: 50px;
-    
-
 }
 td {
    padding: 7px;
