@@ -1,0 +1,30 @@
+.container{
+    
+}
+.child{
+    
+    
+}
+
+
+.tab{
+    background-color: #DEB887;
+    border: 3px solid rgb(50, 47, 255);
+    border-radius: 20px;
+    width: 30%;
+    margin: 0 auto;
+    padding: 50px;
+    
+
+}
+td {
+   padding: 7px;
+  }
+
+  input{
+      border-radius: 3px;
+  }
+  label{
+      font-weight: 500;
+      font-size: larger;
+  }
